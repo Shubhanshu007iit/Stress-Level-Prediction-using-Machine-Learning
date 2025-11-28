@@ -148,16 +148,4 @@ plt.show()
  └── models/
        ├── random_forest.pkl
        └── scaler.pkl
-```
-
----
-
-## ⭐ Why This Project Is Resume-Ready
-
-* Covers full ML pipeline
-* Mental-health analytics (strong JD relevance)
-* Clean code + clear visuals
-* Shows real ML understanding end-to-end
-
-If you like this project, consider ⭐ starring the repo!
 
